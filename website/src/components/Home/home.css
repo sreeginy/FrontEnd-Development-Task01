@@ -1,0 +1,8 @@
+.screen {
+    position: fixed;
+    width: 100%;
+    min-height: 100vh;
+    background: url(../../assets/coffee002.jpg);
+    background-position: center;
+    background-size: cover;
+}
