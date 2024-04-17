@@ -28,9 +28,20 @@ a {
 .button {
   background-color: #fff;
   color: #212121;
-  padding: 7px 13px;
+  padding: 8px 13px;
   font-size: 16px;
   border-radius: 13px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+}
+
+.button2{
+  background-color: #D3D3D3;
+  color: #212121;
+  padding: 14px 25px;
+  font-size: 16px;
+  border-radius: 15px;
   cursor: pointer;
   border: 0;
   outline: 0;

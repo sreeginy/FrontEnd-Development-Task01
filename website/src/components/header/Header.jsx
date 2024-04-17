@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css';
 import '../../index.css'
-import Logo from "../../assets/coffelogo01.png";
+import Logo from "../../assets/coffeeShop.png";
 
 
 const Header = () => {
@@ -17,4 +17,5 @@ const Header = () => {
 }
 
 export default Header
+
 
