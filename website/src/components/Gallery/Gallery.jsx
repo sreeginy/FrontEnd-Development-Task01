@@ -31,7 +31,7 @@ const Gallery = () => {
           component="img"
           height="200"
           image={Gallery01}
-          alt="green iguana"
+          alt="coffee"
         />
         <CardContent className='textStyle'>
           <Typography gutterBottom variant="h6" component="div">
@@ -54,7 +54,7 @@ const Gallery = () => {
           component="img"
           height="200"
           image={Gallery03}
-          alt="green iguana"
+          alt="coffee"
         />
         <CardContent className='textStyle'>
           <Typography gutterBottom variant="h6" component="div">
@@ -76,7 +76,7 @@ const Gallery = () => {
           component="img"
           height="200"
           image={Gallery06}
-          alt="green iguana"
+          alt="coffee"
         />
         <CardContent className='textStyle'>
           <Typography gutterBottom variant="h6" component="div">
@@ -99,7 +99,7 @@ const Gallery = () => {
           component="img"
           height="200"
           image={Gallery05}
-          alt="green iguana"
+          alt="coffee"
         />
         <CardContent className='textStyle'>
           <Typography gutterBottom variant="h6" component="div">
@@ -121,7 +121,7 @@ const Gallery = () => {
           component="img"
           height="200"
           image={Gallery04}
-          alt="green iguana"
+          alt="coffee"
         />
         <CardContent className='textStyle'>
           <Typography gutterBottom variant="h6" component="div">
@@ -144,7 +144,7 @@ const Gallery = () => {
           component="img"
           height="200"
           image={Gallery08}
-          alt="green iguana"
+          alt="coffee"
         />
         <CardContent className='textStyle'>
           <Typography gutterBottom variant="h6" component="div">

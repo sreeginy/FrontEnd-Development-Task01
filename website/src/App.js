@@ -5,6 +5,8 @@ import Contact from './components/Contact/Contact';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Gallery from "./components/Gallery/Gallery";
 import Footer from "./components/Footer/footer";
+import Footer2 from "./components/Footer02/Footer2"
+
 
 function App() {
   return (
@@ -18,7 +20,7 @@ function App() {
     <Route path="/contact-us" element={<ContactUs />} />
 
     </Routes>
-    
+
 
     </Router>
    </>
@@ -32,6 +34,7 @@ const HomePage = () => {
     <Products />
     <Gallery />
     <Footer />
+    <Footer2 />
 
 
     {/* <Routes>
@@ -50,6 +53,9 @@ const ContactUs = () => {
     <>
     <Header />
     <Contact />
+
+    <Footer />
+    <Footer2 />
 
     </>
   )
