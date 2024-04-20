@@ -1,7 +1,7 @@
-
 import Header from "./components/header/Header";
 import Home from "./components/Home/Home";
 import Products from './components/Products/Products';
+import Contact from './components/Contact/Contact';
 
 function App() {
   return (
@@ -13,8 +13,10 @@ function App() {
 
         <Home />
   
-     <Products />
+        <Products />
 
+        <Contact />
+       
     </main>
 
    </>
