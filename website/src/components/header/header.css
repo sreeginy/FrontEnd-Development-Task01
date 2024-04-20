@@ -1,12 +1,12 @@
 nav {
   width: 100%;
+  display: flex;
   background-color: #DCDCDC;
   color: #fff;
-  padding: 4px 0;
+  padding: 1.2px 0;
   position: fixed;
   top: 0;
   left: 0;
-  display: flex;
   align-items: center;
   justify-content: space-between;
   z-index: 10;
@@ -14,7 +14,7 @@ nav {
 }
 
 .logo{
-    width: 45px;
+    width: 60px;
   }
 
 .button {

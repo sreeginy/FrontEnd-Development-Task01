@@ -1,15 +1,27 @@
-.screen {
-    position: fixed;
+/* .screen {
     width: 100%;
     min-height: 100vh;
-    background: url(../../assets/coffee002.jpg);
+    background: url(../../assets/coffee002.jpg) center/cover fixed;
     background-position: center;
     background-size: cover;
     color: #fff;
     display: flex;
     align-items: center;
-   
+    overflow: auto;
+} */
+
+
+.screen {
+    width: 100%;
+    min-height: 100vh;
+    background: url(../../assets/coffee002.jpg) center/cover fixed;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    display: flex;
+    align-items: center;
 }
+
 
 .home__title {
     text-align: left;
@@ -25,13 +37,13 @@
 .home__title h2{
     font-size: 45px;
     font-weight: 250;
-    color:#A9A9A9;
+    color: #A9A9A9;
     margin-top: 12%;
 }
 
 .home__title p{
     max-width: 700px;
-    margin: 10px auto 2opx;
+    margin: 10px auto 20px; 
     line-height: 1.4;
     margin-top: 3%;
     color: #DCDCDC;

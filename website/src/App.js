@@ -1,15 +1,21 @@
 
 import Header from "./components/header/Header";
 import Home from "./components/Home/Home";
+import Products from './components/Products/Products';
 
 function App() {
   return (
    <>
    
-
     <Header />
-    <Home />
 
+    <main className='main'> 
+
+        <Home />
+  
+     <Products />
+
+    </main>
 
    </>
   );

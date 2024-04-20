@@ -1,5 +1,6 @@
-import React from 'react'
+import React from 'react';
 import './home.css';
+import '../../index.css';
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
         </div>
       
     </div>
+    
   )
 }
 
