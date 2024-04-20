@@ -30,7 +30,7 @@ const Products = () => {
         <Typography gutterBottom variant="h5" component="div">
         Original Coffee
         </Typography>
-        <Typography variant="body2" color="text.secondary">
+        <Typography variant="body2" color="text.secondary" style={{ alignItems: "left"}}>
         A coffee café is an establishment that primarily serves various types of coffee, espresso, latte.
         </Typography>
       </CardContent>

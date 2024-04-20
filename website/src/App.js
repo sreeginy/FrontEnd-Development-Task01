@@ -4,6 +4,7 @@ import Products from './components/Products/Products';
 import Contact from './components/Contact/Contact';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Gallery from "./components/Gallery/Gallery";
+import Footer from "./components/Footer/footer";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ const HomePage = () => {
     <Home />
     <Products />
     <Gallery />
+    <Footer />
 
 
     {/* <Routes>

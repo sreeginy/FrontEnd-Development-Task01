@@ -38,7 +38,7 @@ const Gallery = () => {
           Latte Coffee
           </Typography>
           <Typography variant="body2" color="text.secondary">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -61,7 +61,7 @@ const Gallery = () => {
           Cappuccino Coffee
           </Typography>
           <Typography variant="body2" color="text.secondary">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -83,7 +83,7 @@ const Gallery = () => {
           Lungo Coffee
           </Typography>
           <Typography variant='body2' color="text.secondary">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. 
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -106,7 +106,7 @@ const Gallery = () => {
           Cappuccino Coffee
           </Typography>
           <Typography variant="body2" color="text.secondary">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -128,7 +128,7 @@ const Gallery = () => {
           Espresso Coffee
           </Typography>
           <Typography variant="body2" color="text.secondary">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -151,7 +151,7 @@ const Gallery = () => {
           Latte Coffee
           </Typography>
           <Typography variant="body2" color="text.secondary">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
           </Typography>
         </CardContent>
       </CardActionArea>
