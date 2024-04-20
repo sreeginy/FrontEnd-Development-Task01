@@ -24,7 +24,7 @@ const footer = () => {
             </div>
             <div className="row">
 
-            <div className="col01">
+            <div className="col1">
                 <p className='heading'>QUICK LINKS</p>
                 <ul className="list-unstyled">
                     <li>About Us</li>
@@ -36,7 +36,7 @@ const footer = () => {
             </div>
         <div className="row">
 
-            <div className="col01">
+            <div className="col1">
             <p className='heading'>IMPORTANT LINKS</p>
                 <ul className="list-unstyled">
                     <li>Payment Policy</li>
@@ -49,7 +49,7 @@ const footer = () => {
 
         <div className="row">
 
-<div className="col01">
+<div className="col1">
     <p className='heading'>QUICK LINKS</p>
     <ul className="list-unstyled">
         <li>Visit Example</li>

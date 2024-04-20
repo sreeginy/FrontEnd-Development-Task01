@@ -46,3 +46,83 @@
     display: block;
   }
   
+/* ------------------------BreakPoints */
+
+
+@media (max-width: 1200px) {
+    .card {
+        flex: 1 0 48%; 
+        margin: 10px;
+        margin-left: 10px;
+    }
+
+    .gallery {
+        margin: 60px auto;
+        flex-wrap: wrap;
+    }
+
+    .gallery {
+        flex-basis: 48%;
+    }
+
+    .title {
+        font-size: 18px;
+        margin: 6% 6%;
+    }
+
+    .textStyle {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 768px) {
+    .card {
+        flex: 1 0 48%; 
+        margin: 10px;
+        margin-left: 10px;
+    }
+
+    .gallery {
+        margin: 40px auto;
+        flex-wrap: wrap;
+    }
+
+    .gallery {
+        flex-basis: 48%;
+    }
+
+    .title {
+        font-size: 16px;
+        margin: 4% 4%;
+    }
+
+    .textStyle {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 375px) {
+    .card {
+        flex: 1 0 100%; 
+        margin: 10px;
+        margin-left: 0;
+    }
+
+    .gallery {
+        margin: 20px auto;
+        flex-wrap: wrap;
+    }
+
+    .gallery {
+        flex-basis: 100%;
+    }
+
+    .title {
+        font-size: 14px;
+        margin: 2% 2%;
+    }
+
+    .textStyle {
+        font-size: 9px;
+    }
+}
