@@ -35,13 +35,6 @@ const HomePage = () => {
     <Gallery />
     <Footer />
     <Footer2 />
-
-
-    {/* <Routes>
-      <Route path="/products" element={<Products />} />
-    </Routes> */}
-  
-
   
     </>
   );
