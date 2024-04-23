@@ -12,4 +12,4 @@ Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
 
-![coffee shop](https://github.com/sreeginy/FrontEnd-Development-Task01/assets/82145482/57787080-d273-4151-a128-8b50da0f9eba)
+![coffee shop](https://github.com/sreeginy/FrontEnd-Development-Task01/assets/82145482/9de1d973-f9bf-4ccb-a5e3-837f2fa5c55e)
