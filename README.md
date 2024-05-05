@@ -17,7 +17,19 @@ Open http://localhost:3000 to view it in your browser.
 
 
 
+
+
+![Website3](https://github.com/sreeginy/FrontEnd-Development-Task01/assets/82145482/e7ad26bb-8c6f-4807-9be9-2fe700088bff)
+
+
+
+
+
+
+
 ![Website4](https://github.com/sreeginy/FrontEnd-Development-Task01/assets/82145482/0fbabb98-4190-42a8-83d7-2147716ae96f)
+
+
 
 
 
@@ -25,9 +37,6 @@ Open http://localhost:3000 to view it in your browser.
 ![Website2](https://github.com/sreeginy/FrontEnd-Development-Task01/assets/82145482/5f19d6b1-db9a-4ea1-8f44-b413a6ac1571)
 
 
-
-
-![Website3](https://github.com/sreeginy/FrontEnd-Development-Task01/assets/82145482/e7ad26bb-8c6f-4807-9be9-2fe700088bff)
 
 
 
