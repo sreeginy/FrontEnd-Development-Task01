@@ -37,7 +37,8 @@ const Products = () => {
       </CardContent>
     </Card>
 
-   <Card sx={{ maxWidth: 345 }} className='textstyle'>
+
+    <Card sx={{ maxWidth: 345 }} className='textstyle'>
       <CardMedia
         component="img"
         alt="coffee"
@@ -53,8 +54,7 @@ const Products = () => {
         </Typography> <br />
         <Button variant="contained" size="medium" >View More</Button> <br />
       </CardContent>
-    </Card>      
-
+    </Card>   
 
 
     <Card sx={{ maxWidth: 345 }} className='textstyle'>
@@ -73,7 +73,10 @@ const Products = () => {
         </Typography> <br />
         <Button variant="contained" size="medium" >View More</Button> <br />
       </CardContent>
-    </Card>   
+    </Card>  
+
+
+  
 
     </div>
   </div> 

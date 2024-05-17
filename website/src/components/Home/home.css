@@ -52,3 +52,24 @@
 .button2{
     margin-top: 6%;
 }
+
+
+
+@media (max-width: 1200px) {
+    .screen {
+       
+    }
+}
+
+
+@media (max-width: 768px) {
+    .screen {
+        
+    }
+}
+
+@media (max-width: 375px) {
+    .screen {
+        
+    }
+}
